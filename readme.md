@@ -1,0 +1,3 @@
+包含显示生理参数的ui组件的demo
+使用过程:把panel类导入后，在设计界面把widget提升为medicalpanel即可
+
